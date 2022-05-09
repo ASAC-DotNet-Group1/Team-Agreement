@@ -1,4 +1,4 @@
-# HR-Management-System
+# Team-Agreement
 ## Cooperation Plan
 ### Team members:
 + Osama Alzaghal.
