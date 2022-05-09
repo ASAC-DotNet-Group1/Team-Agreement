@@ -47,4 +47,7 @@ Link to our presentation: [click here](https://docs.google.com/presentation/d/1K
 
 
 ## Git Process
++ All components will be on github except the database & sensitive information such as the connection string. 
++ The team leader creates a repository for the project and handles every Pull Request from the team members during the work progress to make sure that there are no conflicts before merging to the main branch.
+
 
